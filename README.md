@@ -1,6 +1,6 @@
 # BringOUtYourDead
 
-This noe works in 42.6 but the speed keep is broken now. You'll have to fast forward after laying down a zombie every time until I can figure this one out.
+This works in 42.6 but the speed keep is broken now. You'll have to fast forward after laying down a zombie every time until I can figure this one out.
 
 This mod DOES NOT WORK on the previous build 42.5
 
